@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm Yichen Yang
 
+📝 I'm currently a Ph.D. candidate at CIAIC, NWPU and IPS, WasedaU.
+
+🔭 Working on speech enhancement, including BSS, beamforming, dereverberation, etc.
 <!--
 **ycyang133/ycyang133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
